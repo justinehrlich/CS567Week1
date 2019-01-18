@@ -1,5 +1,5 @@
 ---
-title: "CS567 Week 1"
+title: "Justins CS567 Week 1"
 output: html_document
 ---
 
